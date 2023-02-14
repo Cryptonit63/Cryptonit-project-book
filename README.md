@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... learning ... learning ...
 - 💞️ I’m looking to collaborate on creating a decentralized application that unites everything about crypto
 - 📫 crypton-it.eth
-- 📫 www.cryptonit.fun
+- 📫 cryptonit.fun
 
 A large-scale decentralized platform integrating a multitude of tools, resources and community driven
 An experimental information resource capable of creating a decentralized bridge controlled by the community to provide users with reliable and timely information of crypto space and provide possible assistance to investigations of loss of funds.
