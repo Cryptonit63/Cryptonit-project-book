@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cryptonit63
+- 👋 Hi, I’m Alex Cryptonit
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning ... learning ... learning ...
+- 🌱 I’m currently dev wep3 decentralized place
 - 💞️ I’m looking to collaborate on creating a decentralized application that unites everything about crypto
 - 📫 crypton-it.eth
 - 📫 cryptonit.fun
